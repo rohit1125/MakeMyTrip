@@ -1,4 +1,4 @@
-package main.java;
+package main;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;

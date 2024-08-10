@@ -1,4 +1,5 @@
-package main.java;
+package main;
+
 import java.time.Duration;
 import java.util.List;
 
