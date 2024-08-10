@@ -30,6 +30,7 @@ public class MakeMyTripTest {
         homePage.enterToCity("Pune");
         homePage.selectDepartureDate();
         homePage.clickSearchButton();
+        System.out.println("just for testin git");
     }
 
     @AfterMethod
